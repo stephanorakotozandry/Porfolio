@@ -1,0 +1,27 @@
+.accueil{
+    background-color: #21325e;
+    color: white;
+    padding: 30px;
+    width: 100%;
+    height: 88vh;  
+}
+.titre{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-direction: column;
+    gap: 1rem;
+    margin: 80px 0 0 0;  
+    font-family:"Arial",sans-serif;
+}
+.nom h1{
+    font-size: 36px;
+    font-family: "Segeo UI",Tahoma,Geneva,Verdana,sans-serif;
+    color: yellow;
+ }
+ .patien{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    font-size: 24px;
+}

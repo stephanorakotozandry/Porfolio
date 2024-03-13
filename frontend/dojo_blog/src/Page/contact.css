@@ -1,0 +1,11 @@
+.file{
+    display: flex;
+    width: 100%;
+    text-align: center;
+    justify-content: center;
+    height: auto;
+    padding: 30px;
+    margin: auto;
+    flex-wrap: wrap;
+    gap: 1rem;
+}
